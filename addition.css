@@ -1,0 +1,42 @@
+body {
+background-image: url("index.jpeg");
+}
+.value1 {
+  width : 250;
+  height : 50;
+  background-color : black;
+  color : white;
+  font-size: 15;
+  font-style: normal;
+  font-weight: bolder;
+
+}
+.div {
+  color : #DC143C;
+  font-weight: bold;
+  font-size: 30;
+  width : 10;
+  height : 20;
+  float: left;
+  margin-top: 50;
+  margin-right: 50;
+  margin-bottom: 0;
+  margin-left: 50:
+}
+.div2 {
+  font-size: 20;
+  margin-top: 50;
+  margin-right: 20;
+  margin-bottom: 30;
+  margin-left: 10;
+}
+#but {
+  background-color: black;
+  color : white;
+  width : 250;
+  height : 50;
+}
+#but:hover {
+  background-color: white;
+  color : black;
+}

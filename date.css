@@ -1,0 +1,19 @@
+body {
+  background-color: #9ACD32;
+}
+button {
+  width : 130;
+  height : 130;
+  color : #008080;
+  background-color:  	#B0E0E6;
+}
+button:hover {
+  background-color: #CD853F;
+  color : white;
+}
+p {
+  color : #2F4F4F;
+  font-size: 25;
+  font-style: oblique;
+  font-family: monospace;
+}
